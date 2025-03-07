@@ -4,41 +4,33 @@
 
 ## Question A
 1. Error
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/error.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/error.PNG"/>
 
 2. Key in username
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/key in user name.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/key in user name.PNG"/>
 
 3. Verify
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/verify.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/verify.PNG"/>
 
 ## Question B
 a.  Update the employee with employee_no 1002 job to 4, with effective 2020-01-01.
 - Before Update
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/question a before.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question a before.PNG"/>
 
 - After Update
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/question a after.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question a after.PNG"/>
 
 b. List out the employee name, employee no, effective date, job title.
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/question b list.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question b list.PNG"/>
 
 c. List out the employee name, employee no, latest job title
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/question c list.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question c list.PNG"/>
 
 d. Delete all employee with employee_no 1000 job title, with effective date of 2020-01-01
 - Before deleted
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image
-/question d delete before.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question d delete before.PNG"/>
 
 - After Deleted
-<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Finish/question d delete after.PNG"/>
+<img src="https://raw.githubusercontent.com/YZ-PJCAC/InterviewQuestion-PHP-Basic/refs/heads/main/Completion_Preview_Image/question d delete after.PNG"/>
 
 
