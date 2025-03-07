@@ -1,6 +1,6 @@
 # This is the result and message leave for interviewer
 
-## Sorry it took so long, I went to ask my school for the UNIVERSITY letter and it took a bit of time to APPROVE, hence the delay. Of course it took me a little while to get to know ajex. I have completed all the requirements, so please take a look.
+## Sorry for taking so long, I went to ask for the university letter from my college and it took a bit of time to APPROVE, that's why there was a delay. Of course it took me a little while to get to know ajex. I have completed all the requirements, so please take a look.
 
 ## Question A
 1. Error
