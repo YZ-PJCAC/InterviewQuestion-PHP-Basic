@@ -6,17 +6,22 @@
     <title>User Verification</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-<div class="p-3 mb-2 bg-primary text-white">
-<div class="text-center">
-  <h1>User Varification</h1>
-</div>
+    <style>
+    body {
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+        color: white;
+    }
+    </style>
 
-<form id="myForm">
-<div class="d-flex justify-content-center align-items-center">
+</head>
+<body class="d-flex justify-content-center align-items-center vh-100 text-white">
+<div class="text-center">
+<img src="verification.png" alt="Verification Image" width="400" class="img-fluid mb-3">
 <div>
-    <div class="container mt-5">
+<form id="myForm">
+<div class="text-center">
+  <h1>User Varification</h1><br>
+    <div class="container mt-2">
         <div class="card p-4 shadow-sm" style="max-width: 400px;">
             <div class="row g-3">
                 <label for="username" class="col-sm-3 col-form-label">Username:</label>
@@ -27,18 +32,11 @@
                     <button type="submit" class="btn btn-success" >Submit</button>
                 </div>            
             </div>
-            <div id="result" class="text-center mt-3"></div>
+            <strong><div id="result" class="text-center mt-3" style="font-size:35px"></div></strong>
         </div>
     </div>
   </div>
-</div>
-</form>
-    <div class="text-center mt-5">
-      <button onclick="location.href='sql.php'" class="btn btn-success" >Click me to manage data</button>
-    </div>   
-</div>
-<script src="verify_ajax.js"></script>
+</form>  
+<script src="verify_ajax.js"></script>  
 </body>
 </html>
-
-
